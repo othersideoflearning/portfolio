@@ -1,4 +1,4 @@
-# Can item description determine the price of the item?.
+# Can item description determine the price of the item?
 
 ## Nuts and Bolts
 To answer this question I have used mecari provided dataset. <br>
