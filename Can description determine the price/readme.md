@@ -1,4 +1,4 @@
-# Can we determine the price of the item based on it's description?
+# Can we determine the price of an item based on it's description?
 
 ## Nuts and Bolts
 To answer this question I have used mecari provided dataset. <br>
