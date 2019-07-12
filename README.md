@@ -9,11 +9,11 @@ I have used below libraries to perform the analysis across all the projects.
 
 - OS
 - Pandas
-- Numpy
+- NumPy
 - Matplotlib
 - Seaborn
-- Scikit-Learn
-- Scipy
+- SciKit-Learn
+- SciPy
 - NLTK
 - XgBoost
 - Light GBM
