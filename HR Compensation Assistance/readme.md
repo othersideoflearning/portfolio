@@ -17,4 +17,25 @@
 
 *If a vector of ***n*** predictions generated from a sample of n data points on all variables, and ***Y*** is the vector of observed values of the variable being predicted, then the within-sample MSE of the predictor is computed as*
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;RMSE&space;=\frac{1}{n}\sum&space;\left&space;(&space;Y_{i}-\hat{Y}_{i}&space;\right&space;)^{2}" target="_blank"><img src="https://latex.codecogs.com/png.latex?\bg_white&space;RMSE&space;=\frac{1}{n}\sum&space;\left&space;(&space;Y_{i}-\hat{Y}_{i}&space;\right&space;)^{2}" title="RMSE =\frac{1}{n}\sum \left ( Y_{i}-\hat{Y}_{i} \right )^{2}" /></a>
+<img src="https://latex.codecogs.com/png.latex?\bg_white&space;MSE&space;=\frac{1}{n}\sum&space;\left&space;(&space;Y_{i}-\hat{Y}_{i}&space;\right&space;)^{2}" title="MSE =\frac{1}{n}\sum \left ( Y_{i}-\hat{Y}_{i} \right )^{2}" />
+
+
+## Scope of the Work
+* Since we planned to predict the salary, we are using regression techniques to solve the problem.
+* Clean and preprocess the data.
+* Exploratory analysis on the given data
+* Below are the list of algorithms planning to apply during the development.
+  - Linear Regression
+  - Linear Regression with Polynomial features
+  - Ridge Regressio
+  - Random Forest Regressor
+  - Gradient Boost Regressor
+  - LightGBM Regressor
+* Generate file with predictions for lookup style deployment.
+
+## Future work
+* Creatre a API which can take features as an input and spitout predictions.
+* Further optimization to improve the prediction accracy.
+
+## Benchmark Results
+* The base line model prediction accuracy and MSE values are treated as bench mark results for this analysis. 
