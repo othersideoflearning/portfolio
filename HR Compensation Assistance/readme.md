@@ -2,8 +2,8 @@
 
 ## Nuts and Bolts
 * In this project, we are developing a mathematical model which can predict the salary for a job based on various features such as Years of Experience, Miles From Metropolis, Degree, Industry, Major and Job Type.
+* The dataset used for this analysis is consisting of a million observations with eight features.
 * There are 2 million observations in the dataset with the following features.
-* The dataset used for this analysis is consisting of a million observations with eight features
   - JobId
   - CompanyId
   - Degree 
@@ -22,8 +22,8 @@
 ## Scope of the Work
 * Since we planned to predict the salary, we are using regression techniques to solve the problem.
 * Clean and preprocess the data.
-* Exploratory analysis of the given data
-* Below is the list of algorithms planning to apply during the development.
+* Exploratory analysis of the given data.
+* Below is the list of algorithms to apply during the development.
   - Linear Regression
   - Linear Regression with Polynomial features
   - Ridge Regression
@@ -37,4 +37,4 @@
 * Further optimization to improve prediction accuracy.
 
 ## Benchmark Results
-* The results of the baseline model, such as prediction accuracy and MSE values, are benchmark results for this analysis.
+* The results of the baseline model, such as prediction accuracy and MSE values are benchmark results for this analysis.
