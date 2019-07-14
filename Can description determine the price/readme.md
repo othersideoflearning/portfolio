@@ -23,7 +23,7 @@ Root Mean Squared Logarithmic Error choosed for this analysis.
 
 The mathematical formula for RMSLE is
 
-> ***ϵ=1n∑i=1n(log(pi+1)−log(ai+1))2***
+> <img src="https://latex.codecogs.com/png.latex?\bg_white&space;\epsilon&space;=&space;\sqrt{\frac{1}{n}\sum_{i=1}^{n}(log(p_{i}&plus;1)-log(a_{i}&plus;1))^{2}}" title="\epsilon = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(log(p_{i}+1)-log(a_{i}+1))^{2}}" />
 
 Where:
 - *ϵ* is the RMSLE value (score)
