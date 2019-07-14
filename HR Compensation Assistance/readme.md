@@ -17,4 +17,4 @@
 
 *If a vector of ***n*** predictions generated from a sample of n data points on all variables, and ***Y*** is the vector of observed values of the variable being predicted, then the within-sample MSE of the predictor is computed as*
 
-${\displaystyle \operatorname {MSE} ={\frac {1}{n}}\sum _{i=1}^{n}(Y_{i}-{\hat {Y_{i}}})^{2}.}$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;RMSE&space;=\frac{1}{n}\sum&space;\left&space;(&space;Y_{i}-\hat{Y}_{i}&space;\right&space;)^{2}" target="_blank"><img src="https://latex.codecogs.com/png.latex?\bg_white&space;RMSE&space;=\frac{1}{n}\sum&space;\left&space;(&space;Y_{i}-\hat{Y}_{i}&space;\right&space;)^{2}" title="RMSE =\frac{1}{n}\sum \left ( Y_{i}-\hat{Y}_{i} \right )^{2}" /></a>
