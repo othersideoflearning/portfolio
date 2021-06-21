@@ -1,4 +1,4 @@
-# Recruiter's Compensation Assistance tool
+# Compensation Assistance tool
 
 ## Nuts and Bolts
 * In this project, we are developing a mathematical model which can predict the salary for a job based on various features such as Years of Experience, Miles From Metropolis, Degree, Industry, Major and Job Type.
