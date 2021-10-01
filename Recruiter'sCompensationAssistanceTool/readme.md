@@ -31,10 +31,12 @@
   - Gradient Boost Regressor
   - LightGBM Regressor
 * Generate a file with predictions for lookup style deployment.
+* 
 
 ## Future work
 * Create an API which can take features as an input and spits out predictions.
 * Further optimization to improve prediction accuracy.
+
 
 ## Benchmark Results
 * The results of the baseline model, such as prediction accuracy and MSE values are benchmark results for this analysis.
